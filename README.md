@@ -12,7 +12,7 @@
 * 2026년 5월 ~ 2026년 X월
 
 ### 🛠 개발 환경 및 기술 스택
-* **Engine:** Unity 202X.X.Xf1 (본인 유니티 버전 입력)
+* **Engine:** Unity 2022.3.62f1 (본인 유니티 버전 입력)
 * **Language:** C#
 * **Platform:** PC / Android (택일)
 
