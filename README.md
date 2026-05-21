@@ -1,4 +1,4 @@
-# 🏃‍♂️ Cookie Run Clone Project (프로젝트 제목)
+# 🏃‍♂️ Cookie Run Clone Project
 
 > **유니티(Unity) 엔진을 활용해 제작한 2D 사이드스크롤 러닝 액션 게임 '쿠키런' 모작입니다.**
 
@@ -32,8 +32,8 @@
 
 | 액션 | 키보드 (PC) | 모바일 터치 |
 | :--- | :--- | :--- |
-| **점프 (Jump)** | `Space` 또는 `Up Arrow` | 왼쪽 화면 터치 |
-| **슬라이드 (Slide)** | `Down Arrow` 또는 `Z` | 오른쪽 화면 터치 |
+| **점프 (Jump)** | `Space` 또는 `Up Arrow` | 왼쪽 점프 버튼 터치 |
+| **슬라이드 (Slide)** | `Down Arrow` 또는 `Z` | 오른쪽 슬라이드 버튼 터치 |
 
 ---
 
